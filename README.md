@@ -4,17 +4,17 @@ Bem-vindo ao meu portfólio de dados! Aqui você encontrará uma coleção dos m
 
 ## Projetos
 
-### [Análise de Dados de Vendas](link-para-o-projeto)
+### [Análise de Dados de Vendas](link-para-o-projeto)(under construction)
 **Descrição**: Análise das tendências de vendas de uma grande varejista.
 ### Ferramentas: Python, Pandas, Matplotlib, Seaborn.
 **Resultados**: Identificação de padrões sazonais e previsões de vendas.
 
-### [Análise de Sentimento em Redes Sociais](link-para-o-projeto)
+### [Análise de Sentimento em Redes Sociais](link-para-o-projeto)(under construction)
 **Descrição**: Análise de sentimentos de tweets sobre um produto específico.
 ### Ferramentas: Python, NLTK, Scikit-learn.
 **Resultados**: Classificação de sentimentos em positivo, negativo e neutro.
 
-### [Modelo Preditivo de Preços de Imóveis](link-para-o-projeto)
+### [Modelo Preditivo de Preços de Imóveis](link-para-o-projeto)(under construction)
 **Descrição**: Desenvolvimento de um modelo para prever preços de imóveis com base em características.
 ### Ferramentas: Python, Scikit-learn, Jupyter Notebook.
 **Resultados**: Modelo com uma precisão de 85% na previsão dos preços.
