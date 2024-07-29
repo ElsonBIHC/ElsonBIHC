@@ -11,7 +11,7 @@ Bem-vindo ao meu portfólio de dados! Aqui você encontrará uma coleção dos m
 
 ### [Análise de Sentimento em Redes Sociais](link-para-o-projeto)
 **Descrição**: Análise de sentimentos de tweets sobre um produto específico.
-###Ferramentas**: Python, NLTK, Scikit-learn.
+### Ferramentas**: Python, NLTK, Scikit-learn.
 **Resultados**: Classificação de sentimentos em positivo, negativo e neutro.
 
 ### [Modelo Preditivo de Preços de Imóveis](link-para-o-projeto)
