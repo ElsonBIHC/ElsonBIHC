@@ -6,7 +6,7 @@ Bem-vindo ao meu portfólio de dados! Aqui você encontrará uma coleção dos m
 
 ### [Análise de Dados de Vendas](link-para-o-projeto)
 **Descrição**: Análise das tendências de vendas de uma grande varejista.
-##Ferramentas**: Python, Pandas, Matplotlib, Seaborn.
+**Ferramentas**: Python, Pandas, Matplotlib, Seaborn.
 **Resultados**: Identificação de padrões sazonais e previsões de vendas.
 
 ### [Análise de Sentimento em Redes Sociais](link-para-o-projeto)
