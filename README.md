@@ -23,4 +23,4 @@ Bem-vindo ao meu portfólio de dados! Aqui você encontrará uma coleção dos m
 
 Sou um profissional de dados com experiência em análise de dados, ciência de dados e machine learning. Estou sempre buscando aprender novas tecnologias e melhorar minhas habilidades.
 
-[LinkedIn](link-para-seu-linkedin) | [Email](mailto:seu-email)
+[LinkedIn](https://www.linkedin.com/in/elsonchiquini/) | [Email](mailto:elson-gomes@hotmail.com)
